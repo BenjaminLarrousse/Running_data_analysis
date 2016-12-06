@@ -3,4 +3,4 @@ Analysis of my running data with Python. Data comes from the running app Runkeep
 
 cardioActivities.csv countains data.
 
-Runkeeper_data_analysis.ipynb is a python script to generate the analysis
+Runkeeper_data_analysis.ipynb is a python script to generate the analysis.
